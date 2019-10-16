@@ -2,15 +2,15 @@
   margin-bottom: 10px;
 }
 
-.full-date {
+.form-full-date {
   width: 148px;
 }
 
-.age {
+.form__age-input {
   width: 56px;
 }
 
-.fieldset {
+.form-fieldset {
   margin-bottom: 20px;
 }
 
@@ -18,19 +18,19 @@
   margin-left: 4px;
 }
 
-.color {
+.form-color {
   margin-top: 4px;
 }
 
-.time {
+.form-time {
   width: 124px;
 }
 
-.range {
+.form-range {
   margin-top: 12px;
   margin-bottom: 4px;
 }
 
-.recommendation {
+.form-recommendation {
   margin-top: 10px;
 }
