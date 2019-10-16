@@ -1,0 +1,36 @@
+.form-input {
+  margin-bottom: 10px;
+}
+
+.full-date {
+  width: 148px;
+}
+
+.age {
+  width: 56px;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.form-span-radio {
+  margin-left: 4px;
+}
+
+.color {
+  margin-top: 4px;
+}
+
+.time {
+  width: 124px;
+}
+
+.range {
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+.recommendation {
+  margin-top: 10px;
+}
