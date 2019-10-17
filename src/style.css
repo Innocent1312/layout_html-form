@@ -1,36 +1,11 @@
-.form-input {
-  margin-bottom: 10px;
-}
-
-.form_full_date-input {
-  width: 148px;
-}
-
-.form__age-input {
-  width: 56px;
-}
-
-.form-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-.form-span-radio {
-  margin-left: 4px;
+.block_styles {
+  margin-bottom: 10px;
 }
 
-.form__color-pic {
-  margin-top: 4px;
-}
-
-.form__time-set {
-  width: 124px;
-}
-
-.form-range {
-  margin-top: 12px;
-  margin-bottom: 4px;
-}
-
-.form__recommendation-input {
-  margin-top: 10px;
+.input {
+  margin-bottom: 10px;
 }
